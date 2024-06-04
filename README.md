@@ -1,10 +1,2 @@
-## Todo app
-
-This project contains a simple TODO application
-It has the following features - 
-
-- A user can sign up
-- A user can sign in
-- A user can create a todo
-- A user can see thier exiting todo
-- A user can mark a todo as done
+# TodoPlus
+MERN Todo Plus is a comprehensive todo application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers user authentication using JWT, allowing users to securely sign up and login. Users can manage todos with features like prioritization, notes, and date-wise organization, providing a robust and user-friendly task management experience.
